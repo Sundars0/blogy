@@ -16,6 +16,9 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
 gem 'normalize-rails'
+gem 'devise'
+gem 'bootstrap-sass'
+gem 'jquery-rails'
 
 
 group :development, :test do

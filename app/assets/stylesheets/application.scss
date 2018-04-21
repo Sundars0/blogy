@@ -15,6 +15,9 @@
  *= require_self
  */
 
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
  html, body {
  	font-family: 'Raleway', sans-serif;
  }
